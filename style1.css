@@ -1,3 +1,4 @@
+
 body{
     margin:0;
 }
@@ -129,7 +130,7 @@ h3{
     
 }
 .content-para{
-    font-family: arial, Helvetica Neue, sans-serif; 
+    font-family: arial, Helvetica Neue, sans-serif; ;
     color:rgba(2, 6, 12, 0.6);
     font-size: 20px;
     font-weight: 650;
@@ -230,4 +231,3 @@ h4{
     border-radius: 5px;
     border:1px solid;
 }
-
